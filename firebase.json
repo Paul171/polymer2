@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "whose-flag/build/default",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

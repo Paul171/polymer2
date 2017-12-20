@@ -1,0 +1,27 @@
+{
+  "name": "test_polymer",
+  "version": "1.0.0",
+  "description": "testing how to use polymer in development",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "firebase-tools": "^3.16.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "login-firebase": "firebase login",
+    "init-firebase": "firebase init",
+    "deploy": "firebase deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Paul171/polymer2.git"
+  },
+  "author": "Paul LO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paul171/polymer2/issues"
+  },
+  "homepage": "https://github.com/Paul171/polymer2#readme"
+}
