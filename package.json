@@ -1,0 +1,13 @@
+{
+  "name": "polymer",
+  "flat": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Paul171/polymer2.git",
+  "author": "Paul LO <puilamlo1701@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0-pre.1",
+    "@webcomponents/webcomponentsjs": "^1.0.22"
+  }
+}
