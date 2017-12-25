@@ -62,4 +62,4 @@ polymer test --npm
 ```
 
 ** Upgrading an existing project **
-Polymer Modulizer tool in a very early state, can try the Modulizer in [README][https://github.com/Polymer/polymer-modulizer/blob/master/README.md] or join the chat #modulizer on Slack
+Polymer Modulizer tool in a very early state, can try the Modulizer in [README](https://github.com/Polymer/polymer-modulizer/blob/master/README.md) or join the chat #modulizer on Slack
